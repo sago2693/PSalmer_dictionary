@@ -286,6 +286,9 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
+# Text files
+*.txt
+
 # standalone packages
 *.sta
 
