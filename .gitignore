@@ -288,7 +288,7 @@ TSWLatexianTemp*
 
 # Text files
 *.txt
-
+*.xlsx
 # standalone packages
 *.sta
 
